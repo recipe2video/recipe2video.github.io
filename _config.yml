@@ -1,0 +1,22 @@
+title: Recipe-to-Video Questions
+author: Team R2V
+
+remote_theme: aterenin/minima-reboot
+
+header_pages:
+- index.md
+- github.md
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+footer_icons:
+  - username: recipe2video
+    url: https://github.com/recipe2video
+    icon: icon-github.svg
+description: >
+  Website for R2VQ, a dataset designed for testing competence-based comprehension of machines over a multimodal recipe collection. 
+gtag: G-62M7VFJQV4
